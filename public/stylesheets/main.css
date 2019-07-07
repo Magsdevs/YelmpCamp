@@ -1,0 +1,38 @@
+.thumbnail img {
+  width: 100%;
+}
+
+.thumbnail {
+  padding: 0;
+}
+
+.thumbnail .caption-full {
+  padding: 9px;
+}
+
+.delete-form {
+  display: inline;
+}
+
+#centro {
+  text-align: center;
+}
+
+#map {
+  height: 400px;
+  width: 100%;
+}
+
+#marker {
+  background-image: url("http://www.myiconfinder.com/uploads/iconsets/256-256-76f453c62108782f0cad9bfc2da1ae9d.png");
+  background-size: cover;
+  color: blue;
+  width: 50px;
+  height: 50px;
+  border-radius: 30%;
+  cursor: pointer;
+}
+
+.mapboxgl-popup {
+  max-width: 200px;
+}
